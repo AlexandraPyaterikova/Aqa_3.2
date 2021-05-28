@@ -7,4 +7,4 @@
 
 **Java:** version "11.0.10"
 
-**Docker** DockerToolbox
+**Docker:** DockerToolbox
